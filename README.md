@@ -1,4 +1,4 @@
-# 🚗💳 Arquitetura de APIs para Pagamentos Digitais e Mobilidade
+# Arquitetura de APIs para Pagamentos Digitais e Mobilidade
 
 ## 📌 Sobre o projeto
 
